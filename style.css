@@ -1,0 +1,72 @@
+* {
+    font-family: "Sofia", sans-serif;
+    font-size:30px;
+    background-color:cornflowerblue;
+}
+
+p{
+    background-color: saddlebrown;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bolder;
+}
+
+.title{
+    margin-top: 200px;
+    margin-bottom: 150px;
+    font-size: 100px;
+    text-align: center;
+}
+
+ul li{
+    list-style-type:none;
+    background-color:cadetblue;
+    padding: 10px;
+    margin-left: -40px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+}
+
+.menuList{
+    margin: 60px 150px;
+    text-align: center;
+    font-size: 50px;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 10px;
+    background-color:dimgray;
+}
+
+.menuListItem{
+    background-color: inherit;
+    color:cornsilk;
+}
+
+a{
+    text-decoration: none;
+}
+
+.recipImg{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    border-radius: 25%;
+    border-style:inset;
+    border-color: blue;
+    margin-left: 50px;
+    margin-bottom: 1000px;
+}
+
+.recipContent{
+    width: 1000px;
+    margin:50px 100px 100px 100px;
+    display: inline-block;
+}
+
+.recipeName{
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-size: 80px;    
+}
